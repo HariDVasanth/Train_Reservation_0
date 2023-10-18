@@ -2,10 +2,10 @@
 This is a Java applicaition for train reservation and management. It 
 allows users to perform various operations related to train booking, 
 cancellation, and registration. Here's a summary of what this program 
-does: 
+does.
 1. It defines a details class responsible for handling train details, booking, and 
 cancellation.
-2. Users can log in as either employees or regular users: 
+2. Users can log in as either employees or regular users. 
 3. Employees have additional privileges, such as adding new train details.
 4. Regular users can book and cancel tickets.
 5. The eLogin method allows employees to log in, add new train details to the 
